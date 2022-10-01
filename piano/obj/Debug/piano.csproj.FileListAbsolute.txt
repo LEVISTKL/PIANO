@@ -1,0 +1,8 @@
+C:\Users\LEVIS\Desktop\PROJECTS\EPIC PIANO\piano\bin\Debug\piano.exe.config
+C:\Users\LEVIS\Desktop\PROJECTS\EPIC PIANO\piano\bin\Debug\piano.exe
+C:\Users\LEVIS\Desktop\PROJECTS\EPIC PIANO\piano\bin\Debug\piano.pdb
+C:\Users\LEVIS\Desktop\PROJECTS\EPIC PIANO\piano\obj\Debug\piano.csproj.AssemblyReference.cache
+C:\Users\LEVIS\Desktop\PROJECTS\EPIC PIANO\piano\obj\Debug\piano.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEVIS\Desktop\PROJECTS\EPIC PIANO\piano\obj\Debug\piano.csproj.CoreCompileInputs.cache
+C:\Users\LEVIS\Desktop\PROJECTS\EPIC PIANO\piano\obj\Debug\piano.exe
+C:\Users\LEVIS\Desktop\PROJECTS\EPIC PIANO\piano\obj\Debug\piano.pdb
